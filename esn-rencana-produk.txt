@@ -3,6 +3,7 @@ Rencana Produk Baru ESN
 ~ Andon IoT System
   * Board ESP32
   * Menggunakan hosting berbayar
+~ IoT System untuk peternakan udang
 ~ Real Time Location System
 ~ Smart Management System
 ~ Smarthome System
