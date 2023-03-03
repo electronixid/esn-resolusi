@@ -1,0 +1,8 @@
+Rencana Produk Baru ESN
+
+~ Andon IoT System
+  * Board ESP32
+  * Menggunakan hosting berbayar
+~ Real Time Location System
+~ Smart Management System
+~ Smarthome System
