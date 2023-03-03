@@ -3,9 +3,11 @@ Rencana Produk Baru ESN
 ~ Andon IoT System
   * Board ESP32
   * Menggunakan hosting berbayar
-    ^ Contabo
+    ^ Jago hosting
     ^ Wordpress
+~ IoT System untuk peternakan udang
 ~ Real Time Location System
-  ^ UWB1000
+  * UWB1000
 ~ Smart Management System
 ~ Smarthome System
+~ Fault Locator Injection System
